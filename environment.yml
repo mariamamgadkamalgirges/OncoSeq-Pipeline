@@ -1,0 +1,16 @@
+name: oncoseq-pipeline
+
+channels:
+  - bioconda
+  - conda-forge
+  - defaults
+
+dependencies:
+  - python=3.11
+  - fastqc
+  - fastp
+  - bwa
+  - samtools
+  - gatk4
+  - ensembl-vep
+  - pip
