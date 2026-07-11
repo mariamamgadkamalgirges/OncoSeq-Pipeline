@@ -1,0 +1,12 @@
+*.bam
+*.sam
+*.vcf.gz
+*.fastq.gz
+*.bai
+*.log
+*.tmp
+*.zip
+*.tar.gz
+__pycache__/
+results/*
+!results/README.md
