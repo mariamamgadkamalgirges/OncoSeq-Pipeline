@@ -1,0 +1,7 @@
+FastQC
+Fastp
+BWA-MEM
+SAMtools
+GATK
+Ensembl VEP
+Python 3
